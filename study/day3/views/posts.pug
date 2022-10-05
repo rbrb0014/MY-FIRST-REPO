@@ -1,0 +1,10 @@
+html
+    head
+        title Posts page
+    body
+        if posts.length
+            h1 Posts count: posts.length 
+            each post,index in posts 
+                h3 ##{index}-#{post}
+        else
+            h1 invalid page

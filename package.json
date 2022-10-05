@@ -1,6 +1,25 @@
 {
   "dependencies": {
     "express": "^4.18.1",
-    "lodash": "^4.17.21"
-  }
+    "lodash": "^4.17.21",
+    "pug": "^3.0.2"
+  },
+  "name": "my-first-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbrb0014/MY-FIRST-REPO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbrb0014/MY-FIRST-REPO/issues"
+  },
+  "homepage": "https://github.com/rbrb0014/MY-FIRST-REPO#readme",
+  "description": ""
 }
